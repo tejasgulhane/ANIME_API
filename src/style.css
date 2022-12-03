@@ -1,0 +1,32 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;1,300&display=swap');
+body{
+   margin: 0;padding: 0;font-family: 'Rubik',sans-serif;
+   background: #fff; 
+   color: #fff;
+   width: 100vw;
+   overflow-x: hidden;
+}
+*{
+    box-sizing: border-box;
+}
+h1,h3{
+    font-weight: 400;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

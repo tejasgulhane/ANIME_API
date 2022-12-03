@@ -1,0 +1,28 @@
+.trend_container{
+    display: grid;
+    width: 100vw;
+    height: 50vw;
+    margin-left: 25px;
+    color: #000 !important;
+    grid-template-columns: repeat(5,1fr);
+    grid-row-gap: 25px;
+}
+.movie__card{
+    height: 220px;
+    width: 200px;
+    border-radius: 15px;
+    background-color: antiquewhite;
+    font-weight: 900 !important;
+    text-align: center;
+    
+}
+.movie__card img{
+    width: 100% !important;
+    height: 180px !important;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+}
+.movie__card p {
+    font-weight: bolder;
+}
